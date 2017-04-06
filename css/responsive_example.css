@@ -1,0 +1,5 @@
+h1 > small {
+    display: block;
+    font-family: "Apple Braille";
+    padding-top: 10px;
+}
