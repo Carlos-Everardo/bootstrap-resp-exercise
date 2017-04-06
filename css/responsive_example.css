@@ -15,7 +15,7 @@ h1 > small {
 .tech-imgs img {
     width: 210px;
     height: 120px;
-    margin: 3em;
+    margin: 3em 3em 0 3em;
 
 }
 
@@ -37,19 +37,46 @@ nav {
     margin-top: 3em;
 }
 
-#small_first_img{
-    padding-top: 12px;
+.small_first_img{
+    padding-top: 10px;
     padding-left: 0;
-    margin-left: -25px;
+    margin-left: -15px;
 }
 
 .small-tech-imgs  {
     margin-top: 2em;
 }
 
+span .txt-btn {
+    padding-left: 10px;
+}
+
+.img-txt {
+    padding-right: 1em;
+    padding-left: 3em;
+}
+
+/*small circles*/
 
 
 
 
 
 
+body{margin:40px;}
+
+
+.btn-circle {
+    width: 15px;
+    height: 15px;
+    text-align: center;
+    padding: 1px 0;
+    font-size: 12px;
+    line-height: 1.428571429;
+    border-radius: 15px;
+
+}
+
+span > button {
+    text-align: right;
+}
