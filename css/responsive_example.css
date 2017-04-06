@@ -10,3 +10,25 @@ h1 > small {
     height : 120px;
     margin : 2em;
 }
+
+.tech-imgs img {
+    width: 120px;
+    height: 120px;
+    margin: 3em;
+}
+
+.small-tech-imgs img {
+    width: 70px;
+    height: 70px;
+    margin: 1em;
+}
+
+#spigot img {
+    width: 55x;
+    height: 55px;
+    margin-bottom: 2em;
+}
+
+nav {
+    margin-top: 3em;
+}
