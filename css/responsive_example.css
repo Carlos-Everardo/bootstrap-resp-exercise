@@ -1,3 +1,4 @@
+
 h1 > small {
     display: block;
     font-family: "Apple Braille";
@@ -12,9 +13,10 @@ h1 > small {
 }
 
 .tech-imgs img {
-    width: 120px;
+    width: 210px;
     height: 120px;
     margin: 3em;
+
 }
 
 .small-tech-imgs img {
@@ -24,11 +26,30 @@ h1 > small {
 }
 
 #spigot img {
-    width: 55x;
+    position: relative;
+    width: 55px;
     height: 55px;
-    margin-bottom: 2em;
+    top: -20px;
+
 }
 
 nav {
     margin-top: 3em;
 }
+
+#small_first_img{
+    padding-top: 12px;
+    padding-left: 0;
+    margin-left: -25px;
+}
+
+.small-tech-imgs  {
+    margin-top: 2em;
+}
+
+
+
+
+
+
+
